@@ -1,5 +1,13 @@
 # Campus Crawl
 
+## Team Members
+- Jacob Bennett
+- Ridge DeJong
+- Mitch Niesar
+- April Volzer
+- Sebene Yi
+
+## Vision Statement
 Scrawl is a mobile app that enables users to anonymously post messages at their location on a map. Other users would then be able to see these messages on their own map. This allows for very specific and convenient one-way communication. How it works is someone opens the app when they want to let others know something (e.g. broken printer, venue change, speed monitoring, traffic, etc.), then they can type out their message and post it at that location, which they can then see on a map. This will solve the problem of arriving at a venue, restaurant, or whatever it may be, just to find out it’s closed. This app will allow users to find out information about their local hot spots near them, adjust routes to work due to traffic, use a different printer, and overall to give the user some more specifics about the electronics and places around them. Other users will be able to view this message from anywhere (with optional filtering), but can positively or negatively rate these messages if they are present at the location of the message. Users can also report messages for inappropriate/inaccurate language or messages. At any time, the message creator can edit or delete their message from anywhere. If there are a lot of positive reactions, then the message will stay up longer than the default time. However, if a message reaches 24 hours it will automatically be deleted. During the time a message is up, a timestamp will be present to inform other users when messages were posted.
 
 
