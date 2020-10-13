@@ -15,7 +15,7 @@ While Calvin's official tours are beneficial, some people adapt to new surroundi
 - April Volzer
 - Sebene Yi
 
-Related/competing systems
+## Related/competing systems
 * [Calvin tours](https://calvin.edu/virtual-tour/)
 * [Team E](https://github.com/Wayfinder-CS262-2020)
 * [Team G](https://github.com/calvin-cs262-fall2020-teamG)
