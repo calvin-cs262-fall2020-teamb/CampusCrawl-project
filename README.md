@@ -21,6 +21,8 @@ While Calvin's official tours are beneficial, some people adapt to new surroundi
 * [Team G](https://github.com/calvin-cs262-fall2020-teamG)
 * [Google Maps](https://www.google.com/maps)
 
+## Additional Files
+
 The client files can be found in the [Client Repo](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-client)
 
 The service files can be found in the [Service Repo](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-service)
