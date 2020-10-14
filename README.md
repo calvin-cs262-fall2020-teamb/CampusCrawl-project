@@ -21,6 +21,16 @@ While Calvin's official tours are beneficial, some people adapt to new surroundi
 * [Team G](https://github.com/calvin-cs262-fall2020-teamG)
 * [Google Maps](https://www.google.com/maps)
 
+## Inception
+- Vision Statement
+- Prototype
+
+## Elaboration1
+- [User Stories](https://trello.com/b/FJiaaSMU/cs262b-campus-crawl)
+- [Domain Model](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/classDiagram.png)
+- [UI Model](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/uiModel.png)
+- [Prototype](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-client/tree/elaboration1)
+
 ## Additional Files
 
 The client files can be found in the [Client Repo](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-client)
