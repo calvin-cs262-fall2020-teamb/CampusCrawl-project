@@ -25,7 +25,7 @@ The advantage of Campus Crawl over a traditional tour guide is the fact that it 
 
 ## Elaboration1
 - [User Stories](https://trello.com/b/FJiaaSMU/cs262b-campus-crawl)
-- [Domain Model](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/classDiagram.png)
+- [Domain Model](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/domain-model.png)
 - [UI Model](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/uiModel.png)
 - [Prototype](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-client/tree/elaboration1)
 
