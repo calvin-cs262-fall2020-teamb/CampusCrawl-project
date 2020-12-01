@@ -28,3 +28,5 @@ The advantage of Campus Crawl over a traditional tour guide is the fact that it 
 Client Repo: [github.com/calvin-cs262-fall2020-teamb/campusCrawl-client](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-client)
 
 Service Repo: [github.com/calvin-cs262-fall2020-teamb/campusCrawl-service](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-service)
+
+Presentation 1: [github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/presentations/presentation1.pdf](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/presentations/presentation1.pdf)
