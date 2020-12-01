@@ -14,23 +14,17 @@ The advantage of Campus Crawl over a traditional tour guide is the fact that it 
 - Sebene Yi
 
 ## Related/competing systems
-* [Calvin tours](https://calvin.edu/virtual-tour/)
-* [Team E](https://github.com/Wayfinder-CS262-2020)
-* [Team G](https://github.com/calvin-cs262-fall2020-teamG)
-* [Google Maps](https://www.google.com/maps)
+* Calvin tours: [calvin.edu/virtual-tour/](https://calvin.edu/virtual-tour/)
+* Team E: [github.com/Wayfinder-CS262-2020](https://github.com/Wayfinder-CS262-2020)
+* Team G: [github.com/calvin-cs262-fall2020-teamG](https://github.com/calvin-cs262-fall2020-teamG)
+* Google Maps: [google.com/maps](https://www.google.com/maps)
 
-## Inception
-- Vision Statement
-- Prototype
-
-## Elaboration1
-- [User Stories](https://trello.com/b/FJiaaSMU/cs262b-campus-crawl)
-- [Domain Model](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/domain-model.png)
-- [UI Model](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/uiModel.png)
-- [Prototype](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-client/tree/elaboration1)
+## Models
+- Domain Model: [github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/domain-model.png](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/domain-model.png)
+- UI Model: [github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/uiModel.png](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/uiModel.png)
 
 ## Additional Files
 
-The client files can be found in the [Client Repo](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-client)
+Client Repo: [github.com/calvin-cs262-fall2020-teamb/campusCrawl-client](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-client)
 
-The service files can be found in the [Service Repo](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-service)
+Service Repo: [github.com/calvin-cs262-fall2020-teamb/campusCrawl-service](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-service)
