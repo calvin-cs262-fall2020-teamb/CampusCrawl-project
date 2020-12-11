@@ -22,6 +22,7 @@ The advantage of Campus Crawl over a traditional tour guide is the fact that it 
 ## Models
 - Domain Model: [github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/domain-model.png](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/domain-model.png)
 - UI Model: [github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/uiModel.png](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/uiModel.png)
+- Deployment Diagram: [github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/DeploymentDiagram.jpg](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/images/DeploymentDiagram.jpg)
 
 ## Additional Files
 
@@ -29,4 +30,8 @@ Client Repo: [github.com/calvin-cs262-fall2020-teamb/campusCrawl-client](https:/
 
 Service Repo: [github.com/calvin-cs262-fall2020-teamb/campusCrawl-service](https://github.com/calvin-cs262-fall2020-teamb/campusCrawl-service)
 
+User Test Report: [github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/Campus%20Crawl%20Test%20Report.docx](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/Campus%20Crawl%20Test%20Report.docx)
+
 Presentation 1: [github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/presentations/presentation1.pdf](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/presentations/presentation1.pdf)
+
+Final Presentation: [github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/presentations/Campus%20Crawl%20Final%20Presentation.pdf](https://github.com/calvin-cs262-fall2020-teamb/CampusCrawl-project/blob/master/presentations/Campus%20Crawl%20Final%20Presentation.pdf)
